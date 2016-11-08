@@ -1,3 +1,11 @@
+author by Capt Wang:
+development environment：win10 + vs2013 +opencv2.4.9
+two tips:
+1 Do not change the original code
+2 Learning of the original code,comments
+
+
+author by arthurv:
 This will be a C++ implementations of the OpenTLD (aka Predator)
 ----------------------------------------------------------------------------
 This is a work in progress, as of right now the code is functional but pretty slow.
