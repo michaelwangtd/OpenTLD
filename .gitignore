@@ -10,6 +10,12 @@
 *.mexs64
 *.mexw32
 *.mexw64
+*.sdf
+*.opensdf
+*.sln
+*.vcxproj
+*.filters
+*.suo
 
 # Octave core dump
 octave-core
